@@ -1,7 +1,7 @@
 # MeteoroRNN
 
 ## Description
-This project contains the `MeteoroRNN.py` script, which implements a Recurrent Neural Network for predicting temperature patterns. It is designed to be easy to run and can be used for educational purposes or further development.
+This project includes the `MeteoroRNN.py` script, which builds a Recurrent Neural Network (RNN) to predict temperature trends. It's designed for ease of use, making it suitable for both educational purposes and future enhancements.
 
 ## Requirements
 To run this script, you need:
